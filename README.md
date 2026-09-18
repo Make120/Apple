@@ -8,7 +8,7 @@
 
 **一键部署（Workers）：**
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Yu9191/wloc/tree/main/worker)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Make120/Apple/tree/main/worker)
 
 > 一键部署仅支持 Workers 模式，点击按钮后按提示授权即可完成部署。
 
