@@ -1,3 +1,10 @@
+## 快捷指令（推荐，最方便）
+
+直接用快捷指令切换 / 清除定位，无需打开选点页面：
+
+- **wloc 设置地理位置**：https://www.icloud.com/shortcuts/a82717d8fdad4e6280866fcf911173f7
+- **wloc 清理恢复位置**：https://www.icloud.com/shortcuts/f42632d406504f24a2cd163af4fe012f
+
 <details>
 <summary><b>自部署 Worker（推荐）</b></summary>
 
